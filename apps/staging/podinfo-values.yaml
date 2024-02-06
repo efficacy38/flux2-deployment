@@ -16,3 +16,6 @@ spec:
           paths:
             - path: /
               pathType: ImplementationSpecific
+    service: 
+      enabled: true
+      Type: LoadBalancer
