@@ -5,4 +5,4 @@ resources:
   - ingress-nginx.yaml
     # - weave-gitops.yaml
   - metallb.yaml
-  - democratic-csi.yaml
+  # - democratic-csi.yaml
